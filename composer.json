@@ -1,7 +1,7 @@
 {
     "name": "vinnyvinny/kafka-queue",
     "require": {
-        "laravel/framework": "^10.8"
+        "laravel/framework": "^8.75"
     },
     "autoload": {
         "psr-4": {
