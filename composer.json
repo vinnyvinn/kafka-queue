@@ -1,0 +1,17 @@
+{
+    "name": "vinnyvinny/kafka-queue",
+    "require": {
+        "laravel/framework": "^10.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Vinnyvinny\\KafkaQueue\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "vinnyvinn",
+            "email": "kituyiv@gmail.com"
+        }
+    ]
+}
